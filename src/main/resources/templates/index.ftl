@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="background-color:#0027FA">
+<html style="background-color:#10fa1b">
 <head>
     <title><#if version??>V${version}</#if></title>
 </head>
